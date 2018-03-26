@@ -1,7 +1,7 @@
-*.ipython_checkpoints
+
 *.ipynb_checkpoints
 .DS_Store
 
-*.feature_creation_data_files.ipynb
+feature_creation_data_files.ipynb
 
-*.DataFiles_2018/MasseyOrdinals_2018_133_only_43Systems.csv
+DataFiles_2018/MasseyOrdinals_2018_133_only_43Systems.csv
