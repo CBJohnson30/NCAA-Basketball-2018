@@ -1,5 +1,7 @@
 # NCAA-Basketball-2018
 
+For a different explanation of this project please visit my blog post on [Medium](https://medium.com/@christopher.bryan.johnson/2018-mens-ncaa-basketball-bracket-83a35242a4)
+
 One of our projects in the General Assembly Data Science Immersive program was to try to build a model to predict the NCAA Basketball tournaments. This coincided with the Kaggle competition called [Google Cloud & NCAA® ML Competition 2018-Men’s](www.kaggle.com/c/mens-machine-learning-competition-2018). As a long time sports fan and a multi-bracket per year maker, I was really excited to see to dive deep into this competition. Also, there is a cash price for the top three entries so that did not hurt either.
 
 One of the biggest differences to this competition is that we must predict the probability of a team winning and predict on every possible game in the tournament. The competition is scored on who has the losest average log loss. An example of how it is scored is below. For more information, I encourage everyone to check out the competition's website at the hyperlink above. 
